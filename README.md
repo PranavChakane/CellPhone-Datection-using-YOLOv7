@@ -1,4 +1,4 @@
-# CellPhone-Datection-using-YOLOv7
+# CellPhone-Detection-using-YOLOv7
 
 ## Yolov7 is latest model for object detection
 
